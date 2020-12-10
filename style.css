@@ -8,25 +8,60 @@ li {
   list-style: none;
 }
 
+*{
+  text-align: center;
+}
+
 .header{
-  background-color: floralwhite;
+  background-color: rgb(198, 198, 214);
+  color: rgb(139, 163, 184);
   height: 90px;
+  opacity: 0.6;
 }
 
 .header-logo{
-  float: left;
   font-size: 50px;
-  padding: 15px 30px;
+  float: left;
+  padding: 10px 40px;
 }
 
 .header-list li{
   float: left;
-  padding: 30px 15px;
+  padding: 35px 20px;
 }
 
-/* .main{
-  /* background-image:url("IMG_0010.jpeg");
-  background-size:90px 90px; */
-} */
+.firstm{
+  /* background-image: url(/Users/satou_shin/Desktop/works/IMG_0010.jpeg); */
+  background-color: rgb(201, 230, 230);
+  height: 300px;
+  opacity: 0.6;
+  padding-top: 100px;
+}
 
+.secondm{
+  height: 300px;
+  background-color: whitesmoke;
+  padding: 20px;
+}
+
+.thirdm{
+height: 300px;
+background-color: rgb(247, 238, 238);
+padding: 20px;
+}
+
+.forthm{
+height: 300px;
+background-color: rgb(238, 243, 227);
+padding: 20px;
+}
+
+.firstf{
+  background-color:rgb(198, 198, 214);
+  height: 90px;
+  opacity: 0.6;
+  padding: 20px;
+}
+
+.
 
